@@ -1,2 +1,2 @@
 export * from './lib/hashUtils';
-export * from './lib/error';
+export * from './lib/errors';

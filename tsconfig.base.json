@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@nx-nest-api-integrated/contexts": ["libs/contexts/src/index.ts"],
       "@nx-nest-api-integrated/shared": ["libs/shared/src/index.ts"]
     }
   },
